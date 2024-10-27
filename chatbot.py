@@ -4,7 +4,6 @@ import string
 
 # Download NLTK resources
 nltk.download('punkt')
-
 # A simple set of responses
 responses = {
     "greeting": ["Hello!", "Hi there!", "Greetings!", "How can I help you?"],
